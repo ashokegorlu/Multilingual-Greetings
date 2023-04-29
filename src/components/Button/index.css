@@ -1,0 +1,21 @@
+.button {
+  margin-right: 22px;
+  border-radius: 15px;
+  font-family: Roboto;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  background-color: transparent;
+  padding: 5px;
+  padding: 5px;
+}
+
+.active {
+  border: none;
+  background-color: #db1c48;
+  color: #ffffff;
+  padding: 5px;
+  padding: 5px;
+  margin-right: 22px;
+  border-radius: 15px;
+  font-family: Roboto;
+}
